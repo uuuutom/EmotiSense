@@ -252,7 +252,3 @@ A successful response should include `"model_loaded": true`.
 
 GitHub: https://github.com/uuuutom
 
-## License
-
-No license information is specified here. Add a `LICENSE` file if you
-want to define how others may use, modify, and distribute this project.
