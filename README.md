@@ -8,6 +8,11 @@ The application uses a **Bidirectional GRU (BiGRU)** model to classify
 text into one of six emotion categories and returns the predicted
 emotion, its model confidence score, and scores for all emotion classes.
 
+## Live Demo
+
+**Live Website:**
+https://mental-health-score-predictor-a029.onrender.com/
+
 ## Emotion Categories
 
 -   Sadness
