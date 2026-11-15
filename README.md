@@ -23,7 +23,7 @@ emotion, its model confidence score, and scores for all emotion classes.
 -   Text preprocessing and tokenization
 -   Sequence padding before model inference
 -   BiGRU deep learning model
--   FastAPI backend with JSON API
+-   FastAPI backend with
 -   Health-check endpoint
 -   Web interface served from the `static/` directory
 -   Deployment support for Render
