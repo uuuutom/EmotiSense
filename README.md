@@ -11,7 +11,7 @@ emotion, its model confidence score, and scores for all emotion classes.
 ## Live Demo
 
 **Live Website:**
-https://mental-health-score-predictor-a029.onrender.com/
+https://emotisense-8490.onrender.com/
 
 ## Emotion Categories
 
