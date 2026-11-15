@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import numpy as np
 import pickle
 import re
